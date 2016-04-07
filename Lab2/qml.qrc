@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ClickButton.qml</file>
+        <file>Dialog.qml</file>
+        <file>OkDialog.qml</file>
+        <file>TextRect.qml</file>
+    </qresource>
+</RCC>
